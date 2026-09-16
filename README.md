@@ -19,27 +19,28 @@
 
 ### 🏠 Home Page
 <!-- حط رابط صورة الصفحة الرئيسية بين الأقواس تحت بدل كلمة LINK_HERE -->
-![Home Page](LINK_HERE)
+<img width="1906" height="938" alt="Screenshot 2026-09-16 163846" src="https://github.com/user-attachments/assets/4f753d44-c60b-4492-9141-20cb2b736888" />
+
 
 ### 🛍️ All Products Page (Client Side)
 <!-- حط رابط صورة صفحة جميع المنتجات للزبائن بين الأقواس تحت بدل كلمة LINK_HERE -->
-![All Products Page](LINK_HERE)
+<img width="1907" height="938" alt="Screenshot 2026-09-16 164001" src="https://github.com/user-attachments/assets/4d2c0416-2769-4782-abce-41dd94c5fa0f" />
 
 ### 📦 Packages Page (Client Side)
 <!-- حط رابط صورة صفحة البكجات بين الأقواس تحت بدل كلمة LINK_HERE -->
-![Packages Page](LINK_HERE)
+<img width="1897" height="972" alt="Screenshot 2026-09-16 164056" src="https://github.com/user-attachments/assets/dbbab0b8-0b2e-4ba6-a81f-7156b535b2fd" />
 
 ### 🔐 Login Page
 <!-- حط رابط صورة صفحة تسجيل الدخول بين الأقواس تحت بدل كلمة LINK_HERE -->
-![Login Page](LINK_HERE)
+<img width="1919" height="864" alt="Screenshot 2026-09-16 164235" src="https://github.com/user-attachments/assets/2db3057c-f1a6-4002-b456-812589b84d41" />
 
 ### 📊 Admin Dashboard
 <!-- حط رابط صورة الداشبورد بين الأقواس تحت بدل كلمة LINK_HERE -->
-![Admin Dashboard](LINK_HERE)
+<img width="1903" height="970" alt="Screenshot 2026-09-16 164353" src="https://github.com/user-attachments/assets/4db1938d-4de3-4697-aba7-80f88ad51002" />
 
 ### ⚙️ Products Management (Admin Side)
 <!-- حط رابط صورة إدارة المنتجات في لوحة التحكم بين الأقواس تحت بدل كلمة LINK_HERE -->
-![Products Management](LINK_HERE)
+<img width="1900" height="947" alt="Screenshot 2026-09-16 164532" src="https://github.com/user-attachments/assets/98432bb5-1e5e-4888-a75d-a091c6edae1f" />
 
 ---
 
