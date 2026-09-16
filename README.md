@@ -7,7 +7,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📝 About The Project
-**Kabsa Store** is a live, production-grade digital subscription and e-commerce platform built with ASP.NET Core MVC[cite: 1]. The system provides a seamless user experience for customers purchasing digital products and subscriptions, alongside a highly dynamic, secure, and fully-featured administrative dashboard for content, product, and order management[cite: 1].
+**Kabsa Store** is a live, production-grade digital subscription and e-commerce platform built with ASP.NET Core MVC. The system provides a seamless user experience for customers purchasing digital products and subscriptions, alongside a highly dynamic, secure, and fully-featured administrative dashboard for content, product, and order management.
 
 🌐 **Live Demo:** [https://www.kabsa.store](https://www.kabsa.store)
 
@@ -44,11 +44,11 @@
 ---
 
 ## 🛠️ Tech Stack & Technologies
-* **Backend:** C#[cite: 1], .NET 8[cite: 1], ASP.NET Core MVC[cite: 1].
-* **Database & ORM:** SQL Server[cite: 1], Entity Framework Core (LINQ, Code-First)[cite: 1].
-* **Frontend:** Razor[cite: 1], HTML5[cite: 1], CSS3[cite: 1], Bootstrap 5[cite: 1], AJAX, jQuery.
+* **Backend:** C#, .NET 8, ASP.NET Core MVC.
+* **Database & ORM:** SQL Server, Entity Framework Core (LINQ, Code-First).
+* **Frontend:** Razor, HTML5, CSS3, Bootstrap 5, AJAX, jQuery.
 * **Libraries/Plugins:** SweetAlert2, DataTables (with PDF/Excel export), AOS Animations, Swiper.js.
-* **SEO & Analytics:** Google Search Console[cite: 1], Google Analytics Integration[cite: 1], Meta Pixel.
+* **SEO & Analytics:** Google Search Console, Google Analytics Integration, Meta Pixel.
 
 ---
 
@@ -72,7 +72,7 @@
 
 During the development and deployment of Kabsa Store, I tackled several real-world engineering challenges:
 
-1. **Image Handling & Production Performance:** Identified and resolved a severe performance issue related to heavy image loads in production[cite: 1]. I implemented an image optimization and validation workflow within the `ImageService` to compress files and control formats, significantly reducing load times[cite: 1].
+1. **Image Handling & Production Performance:** Identified and resolved a severe performance issue related to heavy image loads in production. I implemented an image optimization and validation workflow within the `ImageService` to compress files and control formats, significantly reducing load times.
 2. **Database Integrity with Transactions:** To prevent partial data saves or data corruption during complex operations (like saving a product with its packages and images), I utilized EF Core Database Transactions (`BeginTransactionAsync`, `CommitAsync`, `RollbackAsync`).
 3. **Overcoming ModelState Silent Failures:** Dealt with hidden MVC `ModelState` validation conflicts during dynamic AJAX updates by intelligently clearing unnecessary validations (`ModelState.Clear()`) to ensure smooth database inserts.
 4. **Smart Deletion Architecture:** Implemented `DbUpdateException` handling and backend validation checks to protect referential integrity, ensuring admins cannot accidentally delete records tied to existing foreign keys (e.g., Categories with linked Products).
@@ -80,6 +80,6 @@ During the development and deployment of Kabsa Store, I tackled several real-wor
 ---
 
 ## 📬 Contact & Links
-* **Developer:** Zaid Yasser Mallah[cite: 1]
-* **LinkedIn:** [Zaid Mallah](https://www.linkedin.com/in/zaid-mallah)
-* **Email:** zaidalmallah444@gmail.com[cite: 1]
+* **Developer:** Zaid Yasser Mallah
+* **LinkedIn:** [Zaid Mallah](https://www.linkedin.com/in/zaidyasser)
+* **Email:** zaidalmallah444@gmail.com
